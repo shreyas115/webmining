@@ -1,0 +1,433 @@
+product_image,product_name,product_price,product_discount
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g990ezaiinu/gallery/in-galaxy-s21-fe-g990-sm-g990ezaiinu-530606583?$PD_GALLERY_L_JPG$,Galaxy S21 FE 5G (128 GB),₹ 549,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g781bzggins/gallery/in-galaxy-s20-fe-5g-g781-sm-g781bzggins-405304988?$PD_GALLERY_L_JPG$,Galaxy S20 FE 5G,₹ 39,47% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m526blbiinu/gallery/in-galaxy-m52-5g-m526-404058-sm-m526blbiinu-514948282?$2052_1641_PNG$,Galaxy M52 5G (8GB RAM),₹ 269,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m325flbcins/gallery/in-galaxy-m32-6gb-ram-sm-m325flbcins-462257076?$2052_1641_PNG$,Galaxy M32 (6GB RAM),₹ 169,11% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e225flbdins/gallery/in-galaxy-f-sm-e225flbdins-sm-e---flbhins-470145911?$2052_1641_PNG$,Galaxy F22 (4GB RAM),₹ 129,13% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e426bzagins/gallery/in-galaxy-f42-5g-6gb-ram-sm-e426bzagins-514465331?$2052_1641_PNG$,Galaxy F42 5G (6GB RAM),₹ 209,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-f127glbgins/gallery/in-galaxy-f12-4gb-ram-sm-f127glbgins-419015707?$684_547_PNG$,Galaxy F12 (4/64),₹ 104,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m127gzbgins/gallery/in-galaxy-m12-m127-sm-m127gzbgins-405433733?$2052_1641_PNG$,Galaxy M12 (4/64),₹ 104,19% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (43"") 43LS03AAK",₹ 589,34% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue60aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (43"") 43AUE60",₹ 369,30% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww80t504dab-tl/gallery/in-front-loading-washer-ww10t534daws1-374541-ww80t504dab-tl-383418964?$684_547_PNG$,"Front Load with AI Control &amp SmartThings Connectivity (8.0kg) WW80T504DAB
+                        ",₹ 406,11% Off
+//images.samsung.com/is/image/samsung/in-324-litre-refrigerator-one-door-rt34m5538s8-rt34m5538s8-hl-frontsilver-117002900?$684_547_PNG$,"
+                          Top Mount Freezer with Twin Cooling Plus™ (324L) RT34M5538S8
+                        ",₹ 301,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g990ezaiinu/gallery/in-galaxy-s21-fe-g990-sm-g990ezaiinu-530606583?$PD_GALLERY_L_JPG$,Galaxy S21 FE 5G (128 GB),₹ 549,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398887-sm-r875fzsainu-481111556?$2052_1641_PNG$,Galaxy Watch4 LTE (44mm),₹ 319,9% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-x205nzaainu/gallery/in-galaxy-a8-sm-x205-sm-x205nzaainu-530636023?$684_547_PNG$,Galaxy Tab A8 (LTE),₹ 219,17% OFF
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-buds2-r177-sm-r177nzkainu-481740606?$2052_1641_PNG$,Galaxy Buds2,₹ 119,14% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-474118709?$PD_GALLERY_L_JPG$,Galaxy Z Fold3 5G,₹ 1499,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-flip3-f711-5g-sm-f711bzeainu-474119000?$PD_GALLERY_L_JPG$,Galaxy Z Flip3 5G,₹ 849,11% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g990ezaiinu/gallery/in-galaxy-s21-fe-g990-sm-g990ezaiinu-530606583?$PD_GALLERY_L_JPG$,Galaxy S21 FE 5G (128 GB),₹ 549,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g991bzadinu/gallery/in-galaxy-s21-5g-g991-371114-sm-g991bzadinu-410189271?$PD_GALLERY_L_JPG$,Galaxy S21 5G,₹ 649,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn800akxxl/gallery/in-neo-qled-8k-qn800a-384001-qa65qn800akxxl-425646208?$684_547_PNG$,"Neo QLED 8K Smart TV (65"") QN800A",₹ 3749,21% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (55"") 55LS03AAK",₹ 889,39% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (55"") 55AUE70",₹ 559,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn85aaklxl/gallery/in-neo-qled-qn85a-qa65qn85aaklxl-422089677?$684_547_PNG$,"Neo QLED 4K Smart TV (65"") QN85A",₹ 2299,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-x200nzaainu/gallery/in-galaxy-a8-sm-x200-sm-x200nzaainu-530635474?$684_547_PNG$,Galaxy Tab A8 (Wi-Fi),₹ 179,17% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t735nzsainu/gallery/in-galaxy-tab-s7-fe-t735-sm-t735nzsainu-458153887?$PD_GALLERY_L_JPG$,Galaxy Tab S7 FE (LTE),₹ 449,24% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t970nznainu/gallery/in-galaxy-tab-s7-plus-wifi-t970-sm-t970nznainu-340257098?$PD_GALLERY_L_JPG$,Galaxy Tab S7+ (Wi-Fi),₹ 499,35% off
+//images.samsung.com/is/image/samsung/in-galaxy-tab-s6-lite-p610-sm-p610nziainu-frontpink-236966957?$2052_1641_PNG$,Galaxy Tab S6 Lite (Wi-Fi),₹ 279,10% off
+//images.samsung.com/is/image/samsung/p6pim/in/rt28a3453s8-hl/gallery/in-top-mount-freezer-rt28t3453s9hl-316627-rt28a3453s8-hl-371641776?$684_547_PNG$,"
+                          Digital Inverter Technology Double Door (253L) RT28A3453S8
+                        ",₹ 244,16% Off
+//images.samsung.com/is/image/samsung/in-top-loading-wa70t4262bs-wa70t4262bs-tl-frontsilver-263502166?$684_547_PNG$,Top Loading with Wobble Technology (7.0kg) WA70T4262BS,₹ 206,25% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt37t4513s8hl-rt37t4513s8-hl-fronttitanumsilver-205859044?$PD_GALLERY_L_SHOP_JPG$,"
+                          345L with Twin Cooling Plus™ RT37T4513S8
+                        ",₹ 365,19% Off
+//images.samsung.com/is/image/samsung/in-23-litre-solo-microwave-oven-ms23j5133ag-ms23j5133ag-tl-frontblack-117539116?$PD_GALLERY_L_JPG$,"
+                          Solo Microwave Oven with Ceramic Enamel Cavity (23L) MS23J5133AG
+                        ",₹ 63,39% Off
+//images.samsung.com/is/image/samsung/in-galaxy-buds-live-r180-sm-r180nzbainu-frontmysticblue-303296049?$2052_1641_PNG$,Galaxy Buds Live,₹ 79,50% off
+//images.samsung.com/is/image/samsung/in-galaxy-watch3-r840-sm-r840ntkains-frontmysticblack-320764186?$2052_1641_PNG$,Galaxy Watch3 Bluetooth (45mm),₹ 179,49% off
+//images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-galaxy-buds-pro-r190-sm-r190nzvainu-363149180?$2052_1641_PNG$,Galaxy Buds Pro,₹ 109,39% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398887-sm-r875fzsainu-481111556?$2052_1641_PNG$,Galaxy Watch4 LTE (44mm),₹ 319,9% off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt42m553es8tl-rt42m553es8-tl-frontsilver-62856167?$PD_GALLERY_L_SHOP_JPG$,"
+                          Top Mount Freezer with Twin Cooling Plus™ (415L) RT42M553ES8
+                        ",₹ 454,14% Off
+//images.samsung.com/is/image/samsung/in-ref-sbs-rs5000-rs72r5001m9-tl-frontsilver-149486672?$PD_GALLERY_L_SHOP_JPG$,"
+                          700L with SpaceMax™ Technology RS72R5001M9
+                        ",₹ 809,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf57a5032s9-tl/gallery/in-ref-convertible-freezer-rf57a5032s9-tl-436322271?$684_547_PNG$,"
+                          Twin Cooling Plus™ French Door Refrigerator (580L) RF57A5032S9
+                        ",₹ 709,19% Off
+//images.samsung.com/is/image/samsung/in-one-door-rr21t2g2w9uhl-rr21t2g2w9u-hl-frontblue-202080866?$684_547_PNG$,198L Horizontal Curve Design Single Door Refrigerator RR21T2G2W9U,₹ 186,15% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww70t552dax-tl/gallery/in-front-loading-washer-ww10t554daws1-ww70t552dax-tl-383435784?$684_547_PNG$,WW70T552DAX Front Load with AI Control & SmartThings Connectivity 7.0Kg,₹ 429,19% Off
+//images.samsung.com/is/image/samsung/in-top-loading-wa65t4262ggtl-wa65t4262gg-tl-silver-246890522?$684_547_PNG$,"
+                          Top Loading Washing Machine with Inverter Motor (6.5Kg) WA65T4262GG
+                        ",₹ 168,21% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wt95a4200ll-tl/gallery/in-twin-washer-wt95a4200lltl-wt95a4200ll-tl-379885864?$684_547_PNG$,WT95A4200LL Semi Automatic with Hexa Storm 9.5Kg,₹ 157,14% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wa80t4560bm-tl/gallery/in-top-loading-washer-wa75t4560fmtl-379732-wa80t4560bm-tl-511317859?$2052_1641_PNG$,Top Load with ActivWash (8.0kg) WA80T4560BM,₹ 249,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ay5ybtznna/gallery/in-fast-cooling-393245-ar18ay5ybtznna-462151244?$684_547_PNG$,"
+                          Convertible 5-in-1 Inverter AC, 5.00kW (1.5T) AR18AY5YBTZ
+                        ",₹ 429,31% Off
+//images.samsung.com/is/image/samsung/in-split-ac-ar12ty5qawk-ar12ty5qawknna-frontwhite-205283603?$684_547_PNG$,AR12TY5QAWK Inverter Split AC powered by Digital Inverter with Faster Cooling 3.52kW (1.0T),₹ 314,42% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ax4zawknna/gallery/in-fast-cooling-368940-ar18ax4zawknna-429688804?$684_547_PNG$,"
+                          Convertible 5-in-1 Hot & Cold Inverter Split AC, 5.00kW - 1.5T AR18AX4ZAWK
+                        ",₹ 419,24% Off
+//images.samsung.com/is/image/samsung/in-split-ac-ar18ty3qbpu-ar18ty3qbpunna-frontindiablue-205298693?$684_547_PNG$,AR18TY3QBPU Inverter Split AC powered by Digital Inverter with Faster Cooling 4.98kW (1.5T),₹ 279,39% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-ce1041dsb2-tl-ce1041dsb2-tl-001-front-black?$PD_GALLERY_L_JPG$,"
+                          Convection MWO with Slim Fry (28L) CE1041DSB2
+                        ",₹ 115,30% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc28h5033ck-mc28h5033ck-tl-007-front-black?$684_547_PNG$,"
+                          Convection MWO with SlimFry™, 28L, MC28H5033CK 
+                        ",₹ 127,21% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc32k7056ck-mc32k7056ck-tl-frontblack-106459039?$684_547_PNG$,"
+                          Convection MWO with Masala & Sun Dry™, 32L, MC32K7056CK 
+                        ",₹ 205,18% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc28h5013ak-mc28h5013ak-tl-203475009?$PD_GALLERY_L_SHOP_JPG$,"
+                          Convection MWO with Curd Any Time (28L) MC28H5013AK
+                        ",₹ 109,26% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2110/gallery/in-galaxy-s21-fe-smart-clear-view-cover-ef-zg990cbegin-530688674?$2052_1641_PNG$,Galaxy S21 FE 5G Smart Clear View Cover,₹ 31,29% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-flip3-5g-silicone-cover-with-ring-ef-pf711tnegin-479009730?$2052_1641_PNG$,Galaxy Z Flip3 5G Silicone Cover with Ring,₹ 30,18% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-5g-aramid-cover-ef-xf926sbegin-481639204?$2052_1641_PNG$,Galaxy Z Fold3 5G Aramid Cover,₹ 53,16% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-hybrid-leather-band-et-shr89lregin-481703733?$2052_1641_PNG$,"Galaxy Watch4 Hybrid Leather Band (20mm, M/L)",₹ 39,13% off
+//images.samsung.com/is/image/samsung/in-cable-combo-dg930-ep-dg930ibegin-frontblack-119451395?$PD_GALLERY_L_SHOP_JPG$,"
+                          Cable (Type-C)
+                        ",₹ 5,5% off
+//images.samsung.com/is/image/samsung/p6pim/in/ep-ta800nbegin/gallery/in-wall-charger-for-super-fast-charging-25w-ep-ta800nbegin-372451893?$2052_1641_PNG$,25W Travel Adapter,₹ 12,24% off
+//images.samsung.com/is/image/samsung/p6pim/in/eo-b3300blegin/gallery/in-samsung-level-u2-eo-b3300blegin-372452016?$684_547_PNG$,Stereo Headset (Wireless) - Level U2,₹ 21,27% off
+//images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-wireless-charger-duo-ep-p4300bwegin-363230362?$2052_1641_PNG$,Wireless Charger Duo,₹ 33,11% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g990ezaiinu/gallery/in-galaxy-s21-fe-g990-sm-g990ezaiinu-530606583?$PD_GALLERY_L_JPG$,Galaxy S21 FE 5G (128 GB),₹ 549,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g781bzggins/gallery/in-galaxy-s20-fe-5g-g781-sm-g781bzggins-405304988?$PD_GALLERY_L_JPG$,Galaxy S20 FE 5G,₹ 39,47% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-g991bzadinu/gallery/in-galaxy-s21-5g-g991-371114-sm-g991bzadinu-410189271?$PD_GALLERY_L_JPG$,Galaxy S21 5G,₹ 649,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-f926-5g-sm-f926bzkdinu-474118709?$PD_GALLERY_L_JPG$,Galaxy Z Fold3 5G,₹ 1499,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-flip3-f711-5g-sm-f711bzeainu-474119000?$PD_GALLERY_L_JPG$,Galaxy Z Flip3 5G,₹ 849,11% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m526bzkhinu/gallery/in-galaxy-m52-5g-m526-sm-m526bzkhinu-514958328?$2052_1641_PNG$,Galaxy M52 5G (6GB RAM),₹ 249,29% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m326bzbiins/gallery/in-galaxy-m32-5g-6gb-ram-sm-m326bzbiins-497607003?$684_547_PNG$,Galaxy M32 5G (6GB RAM),₹ 209,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e225flbdins/gallery/in-galaxy-f-sm-e225flbdins-sm-e---flbhins-470145911?$2052_1641_PNG$,Galaxy F22 (4GB RAM),₹ 129,13% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m526blbiinu/gallery/in-galaxy-m52-5g-m526-404058-sm-m526blbiinu-514948282?$2052_1641_PNG$,Galaxy M52 5G (8GB RAM),₹ 269,27% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e426bzbgins/gallery/in-galaxy-f42-5g-6gb-ram-sm-e426bzbgins-514539974?$2052_1641_PNG$,Galaxy F42 5G (6GB RAM),₹ 209,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m127gzkgins/gallery/in-galaxy-m12-m127-sm-m127gzkgins-405433977?$720_576_PNG$,Galaxy M12 (4/64),₹ 104,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-f127glbgins/gallery/in-galaxy-f12-4gb-ram-sm-f127glbgins-419015707?$684_547_PNG$,Galaxy F12 (4/64),₹ 104,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m215glbdins/gallery/in-galaxy-m-sm-m215glbdins-sm-m---glbhins-478397541?$684_547_PNG$,Galaxy M21 2021 Edition (4GB RAM),₹ 129,13% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e225flbhins/gallery/in-galaxy-f22-6gb-ram-sm-e225flbhins-470145794?$720_576_PNG$,Galaxy F22 (6GB RAM),₹ 149,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-e426bzahins/gallery/in-galaxy-f42-5g-8gb-ram-sm-e426bzahins-514504593?$2052_1641_PNG$,Galaxy F42 5G (8GB RAM),₹ 229,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m127gzbhins/gallery/in-galaxy-m-sm-m127gzbhins-sm-m---gzbgins-405435076?$720_576_PNG$,Galaxy M12 (6GB RAM),₹ 124,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-f127gzgiins/gallery/in-galaxy-f12-4gb-ram-sm-f127gzgiins-419015734?$2052_1641_PNG$,Galaxy F12 (4/128),₹ 114,18% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m325flbbins/gallery/in-galaxy-m32-4gb-ram-sm-m325flbbins-462257025?$2052_1641_PNG$,Galaxy M32 (4GB RAM),₹ 149,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-m325flbcins/gallery/in-galaxy-m32-6gb-ram-sm-m325flbcins-462257076?$2052_1641_PNG$,Galaxy M32 (6GB RAM),₹ 169,11% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a525fzkgins/gallery/in-galaxy-a-sm-a525fzkgins-sm-a---fzkhins-409774212?$2052_1641_PNG$,Galaxy A52 (6GB RAM),₹ 274,7% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a325fzkiins/gallery/in-galaxy-a32-a325-407107-sm-a325fzkiins-530413593?$2052_1641_PNG$,Galaxy A32 (8GB RAM),₹ 234,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a528bzkgins/gallery/in-galaxy-a52s-5g-a528-sm-a528bzkgins-496779527?$684_547_PNG$,Galaxy A52s 5G (8GB RAM),₹ 374,9% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a032fzbdins/gallery/in-galaxy-a03core-a032f-sm-a032fzbdins-530523886?$2052_1641_PNG$,Galaxy A03 Core (2GB RAM),₹ 79,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a225fzkrins/gallery/in-galaxy-a22-a225-sm-a225fzkrins-464319646?$684_547_PNG$,Galaxy A22 (6GB RAM),₹ 184,10% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a127fzkgins/gallery/in-galaxy-a12-a127-sm-a127fzkgins-530406339?$2052_1641_PNG$,"Galaxy A12 (4GB RAM, Exynos850 Processor)","
+                      ₹ 12999
+                ",19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a037fzbdins/gallery/in-galaxy-a03s-a037-sm-a037fzbdins-490358590?$684_547_PNG$,Galaxy A03s (3GB RAM),₹ 109,8% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a226bzajins/gallery/in-galaxy-a-sm-a226bzajins-sm-a---bzahins-477356482?$720_576_PNG$,Galaxy A22 5G (8GB RAM),₹ 219,6% Off
+//stg-images.samsung.com/is/image/samsung/p6pim/in/sm-a525fzkhins/gallery/in-galaxy-a52-a525-377958-sm-a525fzkhins-409773833?$PD_GALLERY_L_JPG$,Galaxy A52 (8GB RAM),₹ 289,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a037fzkgins/gallery/in-galaxy-a03s-a037-401442-sm-a037fzkgins-490358748?$2052_1641_PNG$,Galaxy A03s (4GB RAM),₹ 119,8% Off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a127fzkjins/gallery/in-galaxy-a12-a127-400926-sm-a127fzkjins-483302658?$720_576_PNG$,"Galaxy A12 (6GB RAM, Exynos850 Processor)","
+                      ₹ 15499
+                ",17% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-a528bzkdins/gallery/in-galaxy-a52s-5g-a528-402506-sm-a528bzkdins-496849348?$2052_1641_PNG$,Galaxy A52s 5G (6GB RAM),₹ 359,13% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-x200nzaainu/gallery/in-galaxy-a8-sm-x200-sm-x200nzaainu-530635474?$684_547_PNG$,Galaxy Tab A8 (Wi-Fi),₹ 179,24% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t500nzsginu/gallery/in-galaxy-tab-a7-wifi-t500n-353604-sm-t500nzsginu-429596807?$2052_1641_PNG$,Galaxy Tab A7 (Wi-Fi) (4/64 GB),₹ 164,14% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t735nzsainu/gallery/in-galaxy-tab-s7-fe-t735-sm-t735nzsainu-458153887?$PD_GALLERY_L_JPG$,Galaxy Tab S7 FE (LTE),₹ 449,10% off
+//images.samsung.com/is/image/samsung/in-galaxy-tab-a7-wifi-t500n-sm-t500nzapinu-frontportraitgray-311867275?$2052_1641_PNG$,Galaxy Tab A7 (Wi-Fi),₹ 154,17% OFF
+//images.samsung.com/is/image/samsung/in-galaxy-tab-s6-lite-p610-sm-p610nziainu-frontpink-236966957?$2052_1641_PNG$,Galaxy Tab S6 Lite (Wi-Fi),₹ 279,14% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-x205nzaainu/gallery/in-galaxy-a8-sm-x205-sm-x205nzaainu-530636023?$684_547_PNG$,Galaxy Tab A8 (LTE),₹ 219,35% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t225nzaains/gallery/in-galaxy-a7-lite-t225-sm-t225nzaains-457220206?$2052_1641_PNG$,Galaxy Tab A7 Lite (LTE),₹ 149,20% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t970nznainu/gallery/in-galaxy-tab-s7-plus-wifi-t970-sm-t970nznainu-340257098?$PD_GALLERY_L_JPG$,Galaxy Tab S7+ (Wi-Fi),₹ 499,11% off
+//images.samsung.com/is/image/samsung/p6pim/in/sm-t733nzsainu/gallery/in-galaxy-tab-s7-fe-t733-sm-t733nzsainu-497681516?$PD_GALLERY_L_JPG$,Galaxy Tab S7 FE (Wi-Fi),₹ 399,50% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-sm-r860nzkainu-481079032?$2052_1641_PNG$,Galaxy Watch4 Bluetooth (40mm),₹ 239,39% off
+//images.samsung.com/is/image/samsung/in/galaxy-note20/gallery/in-galaxy-buds-live-r180-sm-r180nzkainu-frontmysticblack-275652064?$684_547_PNG$,Galaxy Buds Live,₹ 79,49% off
+//images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-galaxy-buds-pro-r190-sm-r190nzkainu-363149152?$2052_1641_PNG$,Galaxy Buds Pro,₹ 109,14% off
+//images.samsung.com/is/image/samsung/in/galaxy-note20/gallery/in-galaxy-watch3-r840-sm-r840nzsains-frontmysticsilver-275071851?$2052_1641_PNG$,Galaxy Watch3 Bluetooth (45mm),₹ 179,9% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-buds2-r177-sm-r177nzkainu-481740606?$2052_1641_PNG$,Galaxy Buds2,₹ 119,44% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-398887-sm-r875fzsainu-481111556?$2052_1641_PNG$,Galaxy Watch4 LTE (44mm),₹ 319,29% off
+//images.samsung.com/is/image/samsung/in/galaxy-note20/gallery/in-galaxy-watch3-r855-sm-r855fzdains-frontmysticbronze-275071489?$2052_1641_PNG$,Galaxy Watch3 LTE (41mm),₹ 196,18% off
+//images.samsung.com/is/image/samsung/in-watch-active2-r820nz-sm-r820nzkainu-frontblack-189191514?$2052_1641_PNG$,Galaxy Watch Active2 BT (Aluminium),₹ 1,16% off
+//images.samsung.com/is/image/samsung/p6pim/in/2110/gallery/in-galaxy-s21-fe-smart-clear-view-cover-ef-zg990cbegin-530688674?$2052_1641_PNG$,Galaxy S21 FE 5G Smart Clear View Cover,₹ 31,13% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-flip3-5g-silicone-cover-with-ring-ef-pf711tnegin-479009730?$2052_1641_PNG$,Galaxy Z Flip3 5G Silicone Cover with Ring,₹ 30,5% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold3-5g-aramid-cover-ef-xf926sbegin-481639204?$2052_1641_PNG$,Galaxy Z Fold3 5G Aramid Cover,₹ 53,24% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-watch4-hybrid-leather-band-et-shr89lbegin-481703695?$2052_1641_PNG$,"Galaxy Watch4 Hybrid Leather Band (20mm, M/L)",₹ 39,27% off
+//images.samsung.com/is/image/samsung/in-cable-combo-dg930-ep-dg930ibegin-frontblack-119451395?$PD_GALLERY_L_SHOP_JPG$,"
+                      Cable (Type-C)
+                    ",₹ 5,11% off
+//images.samsung.com/is/image/samsung/p6pim/in/ep-ta800nbegin/gallery/in-wall-charger-for-super-fast-charging-25w-ep-ta800nbegin-372451893?$2052_1641_PNG$,25W Travel Adapter,₹ 12,16% off
+//images.samsung.com/is/image/samsung/p6pim/in/eo-b3300blegin/gallery/in-samsung-level-u2-eo-b3300blegin-372452016?$684_547_PNG$,Stereo Headset (Wireless) - Level U2,₹ 21,10% off
+//images.samsung.com/is/image/samsung/p6pim/in/galaxy-s21/gallery/in-wireless-charger-duo-ep-p4300bbegin-363230347?$2052_1641_PNG$,Wireless Charger Duo,₹ 33,30% off
+//images.samsung.com/is/image/samsung/in-c-to-c-cable-da705b-ep-da705bbegin-frontblack-182246144?$2052_1641_PNG$,C to C Cable,₹,14% off
+//images.samsung.com/is/image/samsung/in-25w-changer-ta800-ep-ta800xwngin-frontwhite-189165321?$2052_1641_PNG$,25W Travel Adapter + C to C Cable,₹ ,13% off
+//images.samsung.com/is/image/samsung/p6pim/in/2108/gallery/in-galaxy-z-fold-5g-flip-cover-with-pen-ef-ff92pcbegin-481129799?$2052_1641_PNG$,Galaxy Z Fold3 5G Flip Cover with Pen,₹ 60,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ep-ta200nbegin/gallery/in-15w-traveladapter-epta200-ep-ta200nbegin-372452029?$2052_1641_PNG$,15W Travel Adapter,₹ 8,21% Off
+//images.samsung.com/is/image/samsung/p6pim/in/2110/gallery/in-galaxy-s21-fe-slim-strap-cover-ef-xg990cbegin-530688308?$2052_1641_PNG$,Galaxy S21 FE 5G Slim Strap Cover,₹ 15,17% Off
+//images.samsung.com/is/image/samsung/in-charger-ta845-ep-ta845xwngin-frontwhite-180726718?$2052_1641_PNG$,45W Travel Adapter,₹ ,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/gp-tyr870saasi/gallery/in-milanese-band-galaxy-watch4-gp-tyr870saasi-530446826?$2052_1641_PNG$,Milanese Band for Galaxy Watch4,₹ 59,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ej-b3400ubngin/gallery/in-samsung-smart-keyboard-trio-500-ej-b3400ubngin-511960635?$2052_1641_PNG$,Smart Keyboard Trio 500,₹ 34,15% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn90aaklxl/gallery/in-neo-qled-qn90a-384003-qa65qn90aaklxl-425646555?$684_547_PNG$,"Neo QLED 4K Smart TV (65"") QN90A",₹ 2499,22% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn800akxxl/gallery/in-neo-qled-8k-qn800a-384001-qa65qn800akxxl-425646208?$684_547_PNG$,"Neo QLED 8K Smart TV (65"") QN800A",₹ 3749,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa55qn90aaklxl/gallery/in-neo-qled-qn90a-384003-qa55qn90aaklxl-425646525?$720_576_PNG$,"Neo QLED 4K Smart TV (55"") QN90A",₹ 1759,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn85aaklxl/gallery/in-neo-qled-qn85a-qa65qn85aaklxl-422089677?$684_547_PNG$,"Neo QLED 4K Smart TV (65"") QN85A",₹ 2299,39% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa55qn85aaklxl/gallery/in-neo-qled-qn85a-384004-qa55qn85aaklxl-425664732?$720_576_PNG$,"Neo QLED 4K Smart TV (55"") QN85A",₹ 1609,38% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa85qn900akxxl/gallery/in-neo-qled-8k-qn900a-qa85qn900akxxl-426823787?$684_547_PNG$,"Neo QLED 8K Smart TV (85"") QN900A",₹ 13499,34% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa43q60aaklxl/gallery/in-qled-q60a-qa43q60aaklxl-422125784?$2052_1641_PNG$,"QLED 4K Smart TV (43"") QN60A",₹ 639,46% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa50q60aaklxl/gallery/in-qled-q60a-384006-qa50q60aaklxl-422294953?$2052_1641_PNG$,"QLED 4K Smart TV (50"") QN60A",₹ 759,45% Off
+//images.samsung.com/is/image/samsung/p6pim/in/qa65qn700akxxl/gallery/in-neo-qled-8k-qn700a-qa65qn700akxxl-464369858?$2052_1641_PNG$,"Neo QLED 8K Smart TV (65"") QN700A",₹ 3249,37% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (55"") 55LS03AAK",₹ 889,30% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (50"") 50LS03AAK",₹ 739,29% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (43"") 43LS03AAK",₹ 589,30% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/the-serif-ls01takxxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"The Frame QLED 4K TV (65"") 65LS03AAK",₹ 1199,27% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/qled-4k-serif.jpg?$PD_GALLERY_L_SHOP_JPG$,"QLED 4K The Serif (55"") 55LS01TAK",₹ 899,26% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/samsung-offer-rush/qled-4k-serif.jpg?$PD_GALLERY_L_SHOP_JPG$,"QLED 4K The Serif (43"") 43LS01TAK",₹ 599,27% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue60aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (43"") 43AUE60",₹ 369,29% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (43"") 43AUE70",₹ 389,25% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue60aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (50"") 50AUE60",₹ 479,27% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (50"") 50AUE70",₹ 519,17% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue60aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (55"") 55AUE60",₹ 519,16% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (55"") 55AUE70",₹ 559,16% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"Crystal 4K UHD Smart TV (58"") 58AUE70",₹ 574,19% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue60aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"4K Smart Crystal UHD TV (65"") 65AUE60",₹ 879,26% Off
+//images.samsung.com/is/image/samsung/assets/in/offer/online/mega-monsoon-delights/aue70aklxl.jpg?$PD_GALLERY_L_SHOP_JPG$,"4K Smart Crystal UHD TV (65"") 65AUE70",₹ 919,26% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ua43au8000klxl/gallery/in-crystal-uhd-au8000-ua43au8000klxl-422180275?$2052_1641_PNG$,"4K Smart Crystal UHD TV (43"") AU8000",₹ 499,18% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ua43au9070ulxl/gallery/in-crystal-uhd-au9000-ua43au9070ulxl-422293401?$2052_1641_PNG$,"4K Smart Crystal UHD TV (43"") AU9070",₹ 529,41% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ua50au8000klxl/gallery/in-crystal-uhd-au8000-ua50au8000klxl-422180305?$2052_1641_PNG$,"4K Smart Crystal UHD TV (50"") AU8000",₹ 619,38% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ua55au9070ulxl/gallery/in-uhd-4k-tv-ua55au9070ulxl-front--black-464324381?$2052_1641_PNG$,"4K Smart Crystal UHD TV (55"") AU9070",₹ 749,32% Off
+//images.samsung.com/is/image/samsung/in-hd-tv-t4340-ua32t4340akxxl-ua--t----akxxl-274199934?$PD_GALLERY_L_SHOP_JPG$,"Smart HD TV (32"") 32T4340",₹ 169,43% Off
+//images.samsung.com/is/image/samsung/in-hd-tv-te40a-ua32te40aakxxl-frontgray-231880322?$684_547_PNG$,"Smart HD TV (32"") 32TE40A",₹ 179,31% Off
+//images.samsung.com/is/image/samsung/in-full-hd-tv-te50fa-ua43te50fakxxl-frontblack-231881877?$2052_1641_PNG$,"Smart HD TV (43"") 43TE50F",₹ 319,24% Off
+//images.samsung.com/is/image/samsung/in-soundbar-t400-hw-t400-xl-frontblack-234231322?$684_547_PNG$,"
+                      Soundbar 2.0 Ch T400
+                    ",₹ 65,26% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-a550-xl/gallery/in-hw-a550-hw-a550-xl-430203951?$684_547_PNG$,"
+                      Soundbar 410W 2.1Ch A550
+                    ",₹ 210,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-q600a-xl/gallery/in-hw-q600a-hw-q600a-xl-430203704?$684_547_PNG$,"
+                      Soundbar 360W 3.1.2Ch Q600A
+                    ",₹ 300,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-a450-xl/gallery/in-hw-a450-hw-a450-xl-431732936?$2052_1641_PNG$,"
+                      Soundbar 300W 2.1Ch A450
+                    ",₹ 160,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-a670-xl/gallery/in-hw-a670-hw-a670-xl-430203863?$684_547_PNG$,"
+                      Soundbar 510W 5.1Ch A670
+                    ",₹ 330,21% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-q950a-xl/gallery/in-hw-q950a-hw-q950a-xl-431732338?$684_547_PNG$,"
+                      Soundbar 616W 11.1.4Ch Q950A
+                    ",₹ 1130,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/hw-q800a-xl/gallery/in-hw-q800a-hw-q800a-xl-431732684?$684_547_PNG$,"
+                      Soundbar 330W 3.1.2Ch Q800A
+                    ",₹ 460,24% Off
+//images.samsung.com/is/image/samsung/in-ref-sbs-rs5000-rs72r5001m9-tl-frontsilver-149486672?$PD_GALLERY_L_SHOP_JPG$,"
+                      700L with SpaceMax™ Technology RS72R5001M9
+                    ",₹ 809,28% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf57a5032s9-tl/gallery/in-ref-convertible-freezer-rf57a5032s9-tl-436322271?$684_547_PNG$,"
+                      Twin Cooling Plus™ French Door Refrigerator (580L) RF57A5032S9
+                    ",₹ 709,28% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf87a9770sg-tl/gallery/in-family-hub-rf87a9770sg-tl-512919948?$684_547_PNG$,"
+                      4-Door Flex French Door BESPOKE Family Hub™ Refrigerator (865L) RF87A9770SG
+                    ",₹ 2829,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf70a90t0sl-tl/gallery/in-rf9000ac-non-dispenser-fdr-with-triple-cooling-rf70a90t0sl-tl-512948516?$684_547_PNG$,"
+                      French Door Refrigerator with Dual Flex Zone (705L) RF70A90T0SL
+                    ",₹ 1493,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf63a91c377-tl/gallery/in-bespoke-customizable-design-rf63a91c377-tl-512925605?$684_547_PNG$,"
+                      4-Door Flex French Door BESPOKE Refrigerator (670L) RF63A91C377
+                    ",₹ 1785,15% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf57a5032b1-tl/gallery/in-ref-convertible-freezer-387445-rf57a5032b1-tl-436322366?$684_547_PNG$,"580L Twin Cooling Plus™ French Door Refrigerator RF57A5032B1
+                    ",₹ 1785,14% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rf57a5232sl-tl/gallery/in-water-dispenser-convertible-freezer-rf57a5232sl-tl-436341150?$684_547_PNG$,"579L Twin Cooling Plus™ French Door Refrigerator RF57A5232SL
+                    ",₹ 1573,15% Off
+//images.samsung.com/is/image/samsung/in-side-by-side-rs74r5101sl-rs74r5101sl-tl-frontsilver-155205068?$684_547_PNG$,"RS74R5101SL Side by Side with SpaceMax™ Technology 676l
+                    ",₹ 1653,14% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt34t4513s8hl-rt34t4513s8-hl-frontsilver-205859001?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Twin Cooling Plus™ (324L) RT34T4513S8
+                    ",₹ 350,18% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt37t4513s8hl-rt37t4513s8-hl-fronttitanumsilver-205859044?$PD_GALLERY_L_SHOP_JPG$,"
+                      345L with Twin Cooling Plus™ RT37T4513S8
+                    ",₹ 365,13% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt30t3743s9hl-rt30t3743s9-hl-fronttitanumsilver-205858980?$684_547_PNG$,"
+                      Top Mount Freezer with Convertible Freezer (275L) RT30T3743S9
+                    ",₹ 290,10% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt42m553es8tl-rt42m553es8-tl-frontsilver-62856167?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Twin Cooling Plus™ (415L) RT42M553ES8
+                    ",₹ 454,14% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt28t3523s8hl-rt28t3523s8-hl-fronttitanumsilver-205858950?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Curd Maestro™ (244L) RT28T3523S8
+                    ",₹ 263,24% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt30t3443s9hl-rt30t3443s9-hl-frontsilver-205858868?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Digital Inverter Technology (275L) RT30T3443S9
+                    ",₹ 274,18% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt28t3743s8hl-rt28t3743s8-hl-frontsilver-205858923?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Convertible Freezer (253L) RT28T3743S8
+                    ",₹ 262,16% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt28t3922r8hl-rt28t3922r8-hl-frontpeachred-205854038?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Convertible Freezer (253L) RT28T3922R8
+                    ",₹ 260,15% Off
+//images.samsung.com/is/image/samsung/in-top-mount-freezer-rt28t3122s8hl-rt28t3122s8-hl-fronttitanumsilver-205842977?$PD_GALLERY_L_SHOP_JPG$,"
+                      Top Mount Freezer with Base Stand Drawer (253L) RT28T3122S8
+                    ",₹ 243,10% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt28t3453ut-hl/gallery/in-top-mount-freezer-rt28t3453s9hl-316627-rt28t3453ut-hl-370471793?$684_547_PNG$,"
+                      Top Mount Freezer with Digital Inverter Technology (253L) RT28T3453UT
+                    ",₹ 247,15% Off
+//images.samsung.com/is/image/samsung/in-324-litre-refrigerator-one-door-rt34m5538s8-rt34m5538s8-hl-frontsilver-117002900?$684_547_PNG$,"
+                      Top Mount Freezer with Twin Cooling Plus™ (324L) RT34M5538S8
+                    ",₹ 301,16% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt39a5518s9-tl/gallery/in-394l-double-door-refrigerator-twin-cooling-plus%E2%84%A2-rt39a5518s9-rt39a5518s9-tl-374423752?$684_547_PNG$,"
+                      Twin Cooling Plus™ Double Door (394L) RT39A5518S9
+                    ",₹ 410,17% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt39a5518s9-tl/gallery/in-394l-double-door-refrigerator-twin-cooling-plus%E2%84%A2-rt39a5518s9-rt39a5518s9-tl-374423752?$684_547_PNG$,"
+                      Curd Maestro™ Double Door (336L) RT37A4632S9
+                    ",₹ 370,15% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt34a4622bx-hl/gallery/in-ref-tmf-rt4000-372088-rt34a4622bx-hl-371642305?$684_547_PNG$,"
+                      Curd Maestro™ Double Door (314L) RT34A4622BX
+                    ",₹ 340,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt28a3032gs-hl/gallery/in-top-mount-freezer-rt28t3032sehl-316562-rt28a3032gs-hl-371641424?$684_547_PNG$,"
+                      Digital Inverter Technology Double Door (253L) RT28A3032GS
+                    ",₹ 226,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt28a3021s8-hl/gallery/in-ref-tmf-rt3000-rt28a3021s8-hl-371641401?$684_547_PNG$,"
+                      Digital Inverter Technology Double Door (253L) RT28A3021S8
+                    ",₹ 203,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rt28a3453s8-hl/gallery/in-top-mount-freezer-rt28t3453s9hl-316627-rt28a3453s8-hl-371641776?$684_547_PNG$,"
+                      Digital Inverter Technology Double Door (253L) RT28A3453S8
+                    ",₹ 244,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr20a1z2yu8-hl/gallery/in-httpsamsungcominrefrigerators1-door-377833-rr20a1z2yu8-hl-397205765?$684_547_PNG$,"
+                      Single Door with Stylish Grandé Design (192L) RR20A1Z2YU8
+                    ",₹ 156,23% Off
+//images.samsung.com/is/image/samsung/in-one-door-rr21t2g2w9uhl-rr21t2g2w9u-hl-frontblue-202080866?$684_547_PNG$,198L Horizontal Curve Design Single Door Refrigerator RR21T2G2W9U,₹ 186,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr21a2h2xut-hl/gallery/in-refrigerators1-door-rr21a2h2xut-hl-379979901?$684_547_PNG$,"
+                      Horizontal Curve Design One Door (198L) RR21A2H2XUT
+                    ",₹ 168,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr21a2f2x9u-hl/gallery/in-rr21a2f2y-one-door-373832-rr21a2f2x9u-hl-380060263?$684_547_PNG$,198L Digi-Touch Cool™ Single Door Refrigerator RR21A2F2X9U,₹ 18,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr23a2j3ybx-hl/gallery/in-curd-maestro-374556-rr23a2j3ybx-hl-383466982?$684_547_PNG$,220L Curd Maestro™ Single Door Refrigerator RR23A2J3YBX,₹ 18,11% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr23a2f2y9u-hl/gallery/in-digi-touch-cool%E2%84%A2-374553-rr23a2f2y9u-hl-383466877?$684_547_PNG$,225L Digi-Touch Cool™ Single Door Refrigerator RR23A2F2Y9U,₹ 23,19% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr21a2d2ys8-hl/gallery/in-rr21a2d2y-one-door-rr21a2d2ys8-hl-379963920?$684_547_PNG$,198L Digi-Touch Cool™ Single Door Refrigerator RR21A2D2YS8,₹ 23,15% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr23a2f3xut-hl/gallery/in-digi-touch-cool%E2%84%A2-374558-rr23a2f3xut-hl-383467048?$684_547_PNG$,225L Digi-Touch Cool™ Single Door Refrigerator RR23A2F3XUT,₹ 20,10% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr20a281bu8-nl/gallery/in-rr1500mh-377851-rr20a281bu8-nl-397219568?$684_547_PNG$,192L Stylish Grandé Design Single Door Refrigerator RR20A281BU8,₹ 23,9% Off
+//images.samsung.com/is/image/samsung/p6pim/in/rr23a2k3xuz-hl/gallery/in-curd-maestro-374551-rr23a2k3xuz-hl-383466816?$684_547_PNG$,220L Curd Maestro™ Single Door Refrigerator RR23A2K3XUZ,₹ 23,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww80t504dab-tl/gallery/in-front-loading-washer-ww10t534daws1-374541-ww80t504dab-tl-383418964?$684_547_PNG$,"Front Load with AI Control &amp SmartThings Connectivity (8.0kg) WW80T504DAB
+                    ",₹ 406,12% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww70t552dax-tl/gallery/in-front-loading-washer-ww10t554daws1-ww70t552dax-tl-383435784?$684_547_PNG$,WW70T552DAX Front Load with AI Control & SmartThings Connectivity 7.0Kg,₹ 429,12% Off
+//images.samsung.com/is/image/samsung/in-front-loading-ww60r20glmatl-ww60r20glma-tl-white-265554007?$684_547_PNG$,"
+                      Front Loading with Diamond Drum & Ceramic Heater (6.0Kg) WW60R20GLMA
+                    ",₹ 229,12% Off
+//images.samsung.com/is/image/samsung/in-front-loading-wd70m4443jwtl-wd70m4443jw-tl-white-319040577?$684_547_PNG$,"
+                      Washer Dryer with Digital Inverter Technology (7.0Kg/5.0Kg) WD70M4443JW
+                    ",₹ 410,25% Off
+//images.samsung.com/is/image/samsung/p6pim/in/df60r8600cg-tl/gallery/in-dryer-df60r8600cgsc-df60r8600cg-tl-355267145?$684_547_PNG$,"
+                      AirDresser DF60R8600CG
+                    ",₹ 1150,11% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww70t502ntw-tl/gallery/in-front-loading-washer-ww10t534daws1-374545-ww70t502ntw-tl-383435866?$684_547_PNG$,"Front Load with AI Control & SmartThings Connectivity (7.0kg) WW70T502NTW
+                    ",₹ 343,23% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ww70t502nan-tl/gallery/in-front-loading-washer-ww10t534daws1-374545-ww70t502nan-tl-383435845?$684_547_PNG$,"Front Load with AI Control & SmartThings Connectivity (7.0kg) WW70T502NAN
+                    ",₹ 358,21% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wa75a4022fs-tl/gallery/in-top-loading-wa75a4022fftl-350564-wa75a4022fs-tl-388106600?$2052_1641_PNG$,Top Load with Wobble (7.5kg) WA75A4022FS,₹ 202,14% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wa80t4560bm-tl/gallery/in-top-loading-washer-wa75t4560fmtl-379732-wa80t4560bm-tl-511317859?$2052_1641_PNG$,Top Load with ActivWash (8.0kg) WA80T4560BM,₹ 249,14% Off
+//images.samsung.com/is/image/samsung/in-top-loading-wa70t4262bs-wa70t4262bs-tl-frontsilver-263502166?$684_547_PNG$,WA70T4262BS Top Loading with Wobble Technology 7.0Kg,₹ 206,20% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wa65a4002vs-tl/gallery/in-top-loading-wa65a4002gstl-350585-wa65a4002vs-tl-388106552?$684_547_PNG$,6.5kg with Center Jet WA65A4002VS,₹ 149,14% Off
+//images.samsung.com/is/image/samsung/in-top-loading-wa70t4262gstl-wa70t4262gs-tl-silver-silver-246890530?$PD_GALLERY_L_SHOP_JPG$,Top Load with Inverter Motor (7.0kg) WA70T4262GS,₹ 189,18% Off
+//images.samsung.com/is/image/samsung/in-top-loading-wa65t4262ggtl-wa65t4262gg-tl-silver-246890522?$684_547_PNG$,"
+                      Top Loading Washing Machine with Inverter Motor (6.5Kg) WA65T4262GG
+                    ",₹ 168,26% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wt95a4200ll-tl/gallery/in-twin-washer-wt95a4200lltl-wt95a4200ll-tl-379885864?$684_547_PNG$,WT95A4200LL Semi Automatic with Hexa Storm 9.5Kg,₹ 157,20% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wa70a4002gs-tl/gallery/in-top-loading-washer-wa75m4501hp-wa70a4002gs-tl-388106575?$684_547_PNG$,Top Load with Center Jet (7.0kg) WA70A4002GS,₹ 169,30% Off
+//images.samsung.com/is/image/samsung/in-wt725qpndmpxtl-wt725qpndmpxtl-white-White-61390908?$684_547_PNG$,"
+                      Semi Automatic with Easy To Move (7.2Kg) WT725QPNDMPXTL
+                    ",₹ 104,18% Off
+//images.samsung.com/is/image/samsung/p6pim/in/wt60r2000ll-tl/gallery/in-twin-washer-wt60r2000lltl-wt60r2000ll-tl-379916997?$2052_1641_PNG$,Semi Automatic with Air Turbo Drying System (6.0kg) WT60R2000LL,₹ 91,39% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ms23t5012ug-tl/gallery/in-mw5000t-371340-ms23t5012ug-tl-368757167?$2052_1641_PNG$,"
+                      Solo MWO with Healthy Steam Cook (23L) MS23T5012UG
+                    ",₹ 105,14% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc28h5013ak-mc28h5013ak-tl-203475009?$PD_GALLERY_L_SHOP_JPG$,"
+                      Convection MWO with Curd Any Time (28L) MC28H5013AK
+                    ",₹ 109,14% Off
+//images.samsung.com/is/image/samsung/in-convection-mc32j7035ct-mc32j7035ct-tl-frontsilver-145994834?$PD_GALLERY_L_JPG$,Convection Microwave Oven with SLIM FRY™ (32L) MC32J7035CT,₹ 151,18% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-ce1041dsb2-tl-ce1041dsb2-tl-001-front-black?$PD_GALLERY_L_JPG$,"
+                      Convection MWO with Slim Fry (28L) CE1041DSB2
+                    ",₹ 115,20% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc28h5025vp-mc28h5025vp-tl-frontblack-100722408?$684_547_PNG$,"
+                      Convection MWO with SlimFry™ (28L) MC28H5025VP
+                    ",₹ 144,18% Off
+//images.samsung.com/is/image/samsung/in-23-litre-solo-microwave-oven-ms23j5133ag-ms23j5133ag-tl-frontblack-117539116?$PD_GALLERY_L_JPG$,"
+                      Solo Microwave Oven with Ceramic Enamel Cavity (23L) MS23J5133AG
+                    ",₹ 63,21% Off
+//images.samsung.com/is/image/samsung/in-21-litre-convection-microwave-oven-ce73jd-b-ce73jd-b-xtl-Black-121357600?$684_547_PNG$,Convection MWO with Ceramic Enamel Cavity (21L) CE73JD-B,₹ 94,18% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-solo-ms23f301tak-ms23f301tak-tl-003-front-black?$PD_GALLERY_L_JPG$,"
+                      Solo MWO with Auto Cook (23L) MS23F301TAK
+                    ",₹ 55,9% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ms23t5012up-tl/gallery/in-mw5000t-371340-ms23t5012up-tl-368757209?$684_547_PNG$,"
+                      23L Solo MWO with Healthy Steam Cook, MS23T5012UP
+                    ",₹ 105,8% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ms23t5012uk-tl/gallery/in-mw5000t-371340-ms23t5012uk-tl-372668890?$684_547_PNG$,"
+                      Solo MWO with Healthy Steam Cook (23L) MS23T5012UK
+                    ",₹ 99,21% Off
+//images.samsung.com/is/image/samsung/p6pim/in/mg23t5012ck-tl/gallery/in-mw5000t-mg23t5012ck-tl-372666744?$684_547_PNG$,"
+                      Grill MWO with Grill Fry (23L) MG23T5012CK
+                    ",₹ 110,16% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc28h5033ck-mc28h5033ck-tl-007-front-black?$684_547_PNG$,"
+                      Convection MWO with SlimFry™, 28L, MC28H5033CK 
+                    ",₹ 127,26% Off
+//images.samsung.com/is/image/samsung/in-microwave-oven-convection-mc32k7056ck-mc32k7056ck-tl-frontblack-106459039?$684_547_PNG$,"
+                      Convection MWO with Masala & Sun Dry™, 32L, MC32K7056CK 
+                    ",₹ 205,31% Off
+//images.samsung.com/is/image/samsung/p6pim/in/dw60m5042fw-tl/gallery/in-dw5500mm--dw60m5042fs-dw60m5042fw-tl-514994136?$2052_1641_PNG$,"
+                      IntensiveWash™ Dishwasher DW60M5042FW
+                    ",₹ 359,30% Off
+//images.samsung.com/is/image/samsung/p6pim/in/dw60m5043fs-tl/gallery/in-dw5500mm--dw60m5042fs-404697-dw60m5043fs-tl-515007429?$2052_1641_PNG$,"
+                      IntensiveWash™ Dishwasher DW60M5042FS
+                    ",₹ 389,31% Off
+//images.samsung.com/is/image/samsung/p6pim/in/dw60m5043fs-tl/gallery/in-dw5500mm--dw60m5042fs-404697-dw60m5043fs-tl-515007429?$2052_1641_PNG$,"
+                      IntensiveWash™ Dishwasher DW60M5043FS
+                    ",₹ 409,31% Off
+//images.samsung.com/is/image/samsung/p6pim/in/dw60m6043fs-tl/gallery/in-dw5500mm--dw60m5042fs-404707-dw60m6043fs-tl-515032950?$2052_1641_PNG$,"
+                      IntensiveWash™ Dishwasher DW60M6043FS
+                    ",₹ 469,24% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar12ay4zausnna/gallery/in-fast-cooling-368948-ar12ay4zausnna-363740251?$684_547_PNG$,"
+                    Convertible 5-in-1 Inverter Split AC, 3.20kW - 1.0T AR12AY4ZAUS
+                  ",₹ 341,32% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18aylzburnna/gallery/in-fast-cooling-371347-ar18aylzburnna-368757844?$684_547_PNG$,"
+                    Convertible 5-in-1 Inverter Split AC, 5.00kW - 1.5T AR18AYLZBUR
+                  ",₹ 352,31% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18aymzaurnna/gallery/in-fast-cooling-ar18aymzaurnna-363719902?$684_547_PNG$,"
+                    Convertible 5-in-1 Inverter Split AC 5.00kW - 1.5T AR18AYMZAUR
+                  ",₹ 369,32% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18aynzaurnna/gallery/in-fast-cooling-368940-ar18aynzaurnna-370579986?$684_547_PNG$,"
+                    Convertible 5-in-1 Inverter Split AC, 5.00kW - 1.5T AR18AYNZAUR
+                  ",₹ 399,30% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18aynzburnna/gallery/in-fast-cooling-371347-371347-ar18aynzburnna-429651975?$684_547_PNG$,"
+                    Convertible 5-in-1 Hot & Cold Inverter Split AC, 5.00kW - 1.5T AR18AYNZBUR
+                  ",₹ 399,30% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ax4zawknna/gallery/in-fast-cooling-368940-ar18ax4zawknna-429688804?$684_547_PNG$,"
+                    Convertible 5-in-1 Hot & Cold Inverter Split AC, 5.00kW - 1.5T AR18AX4ZAWK
+                  ",₹ 419,26% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar24ay4yatanna/gallery/in-fast-cooling-378149-ar24ay4yatanna-411914487?$684_547_PNG$,"
+                    Convertible 5-in-1 Hot & Cold Inverter Split AC, 6.00kW - 2.0T AR24AY4YATA
+                  ",₹ 489,39% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ay5ybtznna/gallery/in-fast-cooling-393245-ar18ay5ybtznna-462151244?$684_547_PNG$,"
+                    Convertible 5-in-1 Inverter AC, 5.00kW (1.5T) AR18AY5YBTZ
+                  ",₹ 429,42% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ay3zbpgnna/gallery/in-fast-cooling-371336-ar18ay3zbpgnna-368757038?$684_547_PNG$,"
+                    Convertible Inverter Split AC, 5.00kW (1.5T) AR18AY3ZBPG
+                  ",₹ 352,29% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ay4zapgnna/gallery/in-fast-cooling-368944-ar18ay4zapgnna-363739976?$684_547_PNG$,"
+                    Convertible Inverter Split AC, 5.00kW (1.5T) AR18AY4ZAPG
+                  ",₹ 369,38% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar18ay4zausnna/gallery/in-fast-cooling-368948-ar18ay4zausnna-363740276?$684_547_PNG$,"
+                    Convertible Inverter Split AC, 5.00kW (1.5T) AR18AY4ZAUS
+                  ",₹ 369,37% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ar12ay4zapgnna/gallery/in-fast-cooling-368944-ar12ay4zapgnna-363739951?$684_547_PNG$,"
+                    Convertible Inverter Split AC, 3.20kW (1.0T) AR12AY4ZAPG
+                  ",₹ 341,35% Off
+//images.samsung.com/is/image/samsung/in-split-ac-ar18ty3qbpu-ar18ty3qbpunna-frontindiablue-205298693?$684_547_PNG$,AR18TY3QBPU Inverter Split AC powered by Digital Inverter with Faster Cooling 4.98kW (1.5T),₹ 279,34% Off
+//images.samsung.com/is/image/samsung/in-split-ac-ar12ty5qawk-ar12ty5qawknna-frontwhite-205283603?$684_547_PNG$,AR12TY5QAWK Inverter Split AC powered by Digital Inverter with Faster Cooling 3.52kW (1.0T),₹ 314,39% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ls24am506nwxxl/gallery/in-smart-m5-24am50-ls24am506nwxxl-530310628?$2052_1641_PNG$,"Smart Monitor with Do-It-All Screen (24"") LS24AM506NWXXL",₹ 166,35% Off
+//stg-images.samsung.com/is/image/samsung/p6pim/in/ls27am500nwxxl/gallery/in-smart-m5-27m50a-ls27am500nwxxl-422198643?$PD_GALLERY_L_JPG$,"Smart Monitor with Do-It-All Screen (27"") LS27AM500NWXXL",₹ 199,38% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ls27am501nwxxl/gallery/in-smart-m5-m50a-ls27am501nwxxl-530310433?$2052_1641_PNG$,"Smart Monitor with Do-It-All Screen (27"") LS27AM501NWXXL",₹ 204,44% Off
+//stg-images.samsung.com/is/image/samsung/p6pim/in/ls32am500nwxxl/gallery/in-smart-m5-27m50a-384011-ls32am500nwxxl-422198824?$PD_GALLERY_L_JPG$,"Smart Monitor with Do-It-All Screen (32"") LS32AM500NWXXL",₹ 225,32% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ls32am501nwxxl/gallery/in-smart-m5-m50a-406370-ls32am501nwxxl-530310560?$2052_1641_PNG$,"Smart Monitor with Do-It-All Screen (32"") LS32AM501NWXXL",₹ 231,25% Off
+//images.samsung.com/is/image/samsung/p6pim/in/ls32am700uwxxl/gallery/in-smart-m7-32m70a-ls32am700uwxxl-422198928?$PD_GALLERY_L_JPG$,"Smart Monitor with Do-It-All Screen (32"") LS32AM700UWXXL",₹ 344,37% Off
+//images.samsung.com/is/image/samsung/p6pim/in/lf24g35tfwwxxl/gallery/in-odyssey-g3-24g35tf-lf24g35tfwwxxl-467158852?$2052_1641_PNG$,"Gaming Monitor with AMD freeSync (24"") LF24G35TFWWXXL",₹ 166,25% Off
+//images.samsung.com/is/image/samsung/in-gaming-monitor-c27g55tqww-lc27g55tqwwxxl-frontblack-335280359?$2052_1641_PNG$,"Curved Gaming Monitor with WQHD resolution (27"") LC27G55TQWWXXL
+                    ",₹ 236,30% Off
+//images.samsung.com/is/image/samsung/in-gaming-monitor-c27rg50fqw-lc27rg50fqwxxl-frontblack-248905874?$2052_1641_PNG$,"Curved Gaming Monitor (27"") LC27RG50FQWXXL",₹ 252,42% Off
+//images.samsung.com/is/image/samsung/p6pim/in/lc27g75tqswxxl/gallery/in-64-8cm-27-gaming-monitor-with-wqhd-resolution-240hz-refresh-rate-lc27g75tqswxxl-501389697?$684_547_PNG$,"Gaming Monitor with WQHD resolution (27"") LC27G75TQSWXXL",₹ 449,34% Off
+//images.samsung.com/is/image/samsung/p6pim/in/lc34g55twwwxxl/gallery/in-odyssey-g5-34g5-lc34g55twwwxxl-467164472?$684_547_PNG$,"Gaming Monitor with WQHD resolution (34"") LC34G55TWWWXXL",₹ 452,21% Off
+//images.samsung.com/is/image/samsung/in-gaming-monitor-c49g95tssw-lc49g95tsswxxl-frontwhite-335279681?$684_547_PNG$,Gaming Monitor with 32:9 aspect ratio display (49&quot) LC49G95TSSWXXL,₹ 1563,27% Off
+//images.samsung.com/is/image/samsung/in-curved-cf390-lc24f390fhwxxl-001-front-black?$PD_GALLERY_L_JPG$,"Curved Monitor with Curvature (23.5"") LC24F390FHWXXL",₹ 123,28% Off
+//images.samsung.com/is/image/samsung/p6pim/in/lc27r500fhwxxl/gallery/in-c27r5-lc27r500fhwxxl-401472876?$PD_GALLERY_L_JPG$,"Curved Monitor with AMD Freesync (26.9"") LC27R500FHWXXL",₹ 161,41% Off
+//images.samsung.com/is/image/samsung/p6pim/in/lc27t550fdwxxl/gallery/in-c27t55-lc27t550fdwxxl-399695371?$2052_1641_PNG$,"Curved Monitor with 1000R display (27"") LC27T550FDWXXL",₹ 180,30% Off
+//images.samsung.com/is/image/samsung/in-curved-cf390-lc27f390fhwxxl-001-front-black?$2052_1641_PNG$,"Curved Monitor with Curvature 1800R (27"") LC27F390FHWXXL",₹ 161,35% Off
+//images.samsung.com/is/image/samsung/in-curved-cj791-lc34j791wtwxxl-frontwhite-163668995?$PD_GALLERY_L_JPG$,"Ultra WQHD Curved Monitor (34"") LC34J791WTWXXL",₹ 709,28% Off
